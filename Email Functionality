@@ -1,5 +1,7 @@
 ## This is a code snippet for powershell to create email functionality that contains a way to add credentials in a secure manner
 ## to an automated script. 
+## Credit goes to Kris Powell for understanding of this feature as shown on his website. 
+## http://www.adminarsenal.com/admin-arsenal-blog/secure-password-with-powershell-encrypting-credentials-part-1
 
 First step is to create the encrypted file with the following 2 lines on the machine that you want to create the encrypted file on.
 
